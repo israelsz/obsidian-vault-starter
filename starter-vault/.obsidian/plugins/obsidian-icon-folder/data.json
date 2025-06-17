@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiShipWheel",
+      "🖥",
+      "LiListTodo",
+      "LiKanbanSquare",
+      "LiWorkflow"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Chamba": {
+    "iconName": "LiShovel",
+    "iconColor": "#fcfcfc"
+  },
+  "Chamba/How-to's/Crear Webhook Jenkins - Github.md": "LiWebhook",
+  "Chamba/How-to's/Agregar excepción versión Springboot - Error.md": {
+    "iconName": "LiSprout",
+    "iconColor": "#17a215"
+  },
+  "Chamba/How-to's/Aceptar PR y reiniciar POD - Cambio en configfiles.md": {
+    "iconName": "LiGitPullRequest",
+    "iconColor": "#f2f2f2"
+  },
+  "U": "📚",
+  "Chamba/How-to's/Falta worflow actions.md": "LiWorkflow",
+  "Chamba/How-to's/Error - hdu null.md": "LiKanbanSquare",
+  "Chamba/How-to's/Múltiples verificaciones.md": "LiListTodo",
+  "Learning": "🖥",
+  "Learning/KubernotesTraining": "LiShipWheel",
+  "Markdown test.md": "📘"
+}
